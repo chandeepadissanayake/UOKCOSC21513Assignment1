@@ -21,7 +21,7 @@ Following instructions would guide you through on how to build and execute the s
 
 1.  Clone the repository
 
-    git clone https://github.com/chandeepadissanayake/UOKCOSC21513Assignment1.git Assignment1
+        git clone https://github.com/chandeepadissanayake/UOKCOSC21513Assignment1.git Assignment1
 
 2.  Navigate to the project folder
 
