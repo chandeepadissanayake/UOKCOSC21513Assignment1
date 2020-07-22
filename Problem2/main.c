@@ -23,7 +23,7 @@ void main()
 {
     char in_infix_expr[MAX_INPUT_LENGTH];
     printf("Enter the Expression (Infix): ");
-    gets(in_infix_expr);
+    fgets(in_infix_expr, MAX_INPUT_LENGTH, stdin);
 
     // Removes spaces in the input expression.
     KLNStringRemoveSpaces(in_infix_expr);
@@ -38,7 +38,4 @@ void main()
 
     // Deallocates the memory for above variable.
     free(out_outfix_expr);
-
-    // Hold the terminal.
-    getchar();
 }

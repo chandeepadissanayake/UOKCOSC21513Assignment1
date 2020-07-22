@@ -19,7 +19,7 @@ void main()
 {
     char str_expr[MAX_INPUT_LENGTH];
     printf("Enter the Expression: ");
-    gets(str_expr);
+    fgets(str_expr, MAX_INPUT_LENGTH, stdin);
 
     bool is_expr_valid = MatExValValidateExpr(str_expr, strlen(str_expr));
 
