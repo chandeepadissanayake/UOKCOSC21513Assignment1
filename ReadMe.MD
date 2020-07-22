@@ -4,14 +4,10 @@ This is the code repository for Assignment 1 for COSC 21513 course unit.
 
 ## My Credentials
 
----
-
 - Student Number : PS/2017/035
 - Name : D. M. Chandeepa Dissanayake
 
 ## Instructions
-
----
 
 Following instructions would guide you through on how to build and execute the source code.
 
@@ -23,9 +19,9 @@ Following instructions would guide you through on how to build and execute the s
 
 #### On Local Environment
 
-1.  Clone the repository  
-      
-     git clone https://github.com/chandeepadissanayake/UOKCOSC21513Assignment1.git Assignment1
+1.  Clone the repository
+
+    git clone https://github.com/chandeepadissanayake/UOKCOSC21513Assignment1.git Assignment1
 
 2.  Navigate to the project folder
 
