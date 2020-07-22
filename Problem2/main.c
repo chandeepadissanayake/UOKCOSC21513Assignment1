@@ -3,8 +3,6 @@
  * Infix -> Prefix
  * main.c: Entry Point to the program.
  * 
- * Note: This solutuon would work for the expressions ONLY with addition and subtraction (+ & -) operators.
- * 
  * Author: D. M. Chandeepa Dissanayake
  * Student Number: PS/2017/035
  * Assignment Number: 1

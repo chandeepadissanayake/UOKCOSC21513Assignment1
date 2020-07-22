@@ -1,7 +1,7 @@
 /*
  * Solution for Problem #2
  * Mathematical expressions util functions
- * Support functions for mathematical expressions manupulation.
+ * Support functions for mathematical expressions manipulation.
  * 
  * Author: D. M. Chandeepa Dissanayake
  * Student Number: PS/2017/035
